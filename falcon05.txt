@@ -7,8 +7,8 @@ red='\e[1;31m'
 white='\e[1;37m'
 yellow='\e[1;33m'
 echo -e $red
-cowsay -f eyes 'Termux Login By Moreno77'
-figlet -f slant 'Moreno77'
+cowsay -f eyes 'Termux Login By Falcon05'
+figlet -f slant 'Falcon05'
 echo -e $green
 echo '======================================================='
 echo '======================================================='
